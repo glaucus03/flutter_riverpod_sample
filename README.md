@@ -1,0 +1,2 @@
+# flutter_riverpod_sample
+flutterをriverpod2.0で使い倒すサンプルリポジトリ
